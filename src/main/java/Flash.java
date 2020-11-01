@@ -3,5 +3,6 @@ public class Flash {
         System.out.println("Flash runs very fast");
         //
         //23
+        //
     }
 }
